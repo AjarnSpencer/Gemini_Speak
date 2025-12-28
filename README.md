@@ -8,11 +8,12 @@
   [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
   [![Powered By](https://img.shields.io/badge/Powered%20By-Gemini%203%20Pro-purple)](https://ai.google.dev/)
   [![React](https://img.shields.io/badge/Built%20With-React%2019-cyan)](https://react.dev/)
-
+ 
   <p>
     <em>A professional-grade translation bridge that doesn't just translate words—it translates intent.</em>
   </p>
 </div>
+
 
 ---
 
@@ -21,6 +22,7 @@
 **Gemini Speak Relay** is a cutting-edge web application designed to facilitate seamless conversation between speakers of different languages. Powered by Google's **Gemini 3 Pro**, it goes beyond simple transcription by analyzing audio input to detect the speaker's emotional tone and synthesizing the translated output in a voice that matches the context.
 
 The application features a strict **BYOK (Bring Your Own Key)** architecture, ensuring that your API usage remains private, secure, and under your control.
+ [![TRY ONLINE IN GOOGLE CLOUD]https://gemini-speak-relay-594226924032.us-west1.run.app/)
 
 ## ✨ Key Features
 
