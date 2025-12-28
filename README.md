@@ -23,7 +23,7 @@
 
 The application features a strict **BYOK (Bring Your Own Key)** architecture, ensuring that your API usage remains private, secure, and under your control.
 
-<a style="text-align:center; font-size:large;" href="https://gemini-speak-relay-594226924032.us-west1.run.app>TRY THE APP ONLINE IN GOOGLE CLOUD</a>
+<a style="text-align:center; font-size:large;" href="https://gemini-speak-relay-594226924032.us-west1.run.app">TRY THE APP ONLINE IN GOOGLE CLOUD</a>
 
 ## ✨ Key Features
 
