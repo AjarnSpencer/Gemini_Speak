@@ -151,7 +151,9 @@ export const generateSpeech = async (
         }
       ],
       config: {
-        responseModalities: [Modality.AUDIO],
+        // Enforce AUDIO modality to prevent text generation error.
+        responseModalities: [Modality.AUDIO], 
+        // NOTE: Do NOT use systemInstruction with the TTS model as it can cause 500 Internal Server Errors.
         speechConfig: {
           voiceConfig: {
             prebuiltVoiceConfig: {

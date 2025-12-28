@@ -78,12 +78,12 @@ const Notebook: React.FC<NotebookProps> = ({ entries, onReplay }) => {
                             {entry.translatedText}
                         </p>
                         
-                        {/* Replay Button */}
+                        {/* Replay Button - Always Visible */}
                         {entry.audioData && (
                             <button 
                                 onClick={() => entry.audioData && onReplay(entry.audioData)}
                                 className={`
-                                    flex-shrink-0 w-8 h-8 flex items-center justify-center rounded-full transition-all opacity-0 group-hover:opacity-100
+                                    flex-shrink-0 w-8 h-8 flex items-center justify-center rounded-full transition-all shadow-sm
                                     ${isUserA 
                                         ? 'bg-cyan-100 text-cyan-600 hover:bg-cyan-200 hover:scale-110' 
                                         : 'bg-orange-100 text-orange-600 hover:bg-orange-200 hover:scale-110'
