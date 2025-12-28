@@ -22,7 +22,7 @@
 **Gemini Speak Relay** is a cutting-edge web application designed to facilitate seamless conversation between speakers of different languages. Powered by Google's **Gemini 3 Pro**, it goes beyond simple transcription by analyzing audio input to detect the speaker's emotional tone and synthesizing the translated output in a voice that matches the context.
 
 The application features a strict **BYOK (Bring Your Own Key)** architecture, ensuring that your API usage remains private, secure, and under your control.
- [![TRY ONLINE IN GOOGLE CLOUD]https://gemini-speak-relay-594226924032.us-west1.run.app/)
+ [![TRY ONLINE IN GOOGLE CLOUD] https://gemini-speak-relay-594226924032.us-west1.run.app/)
 
 ## ✨ Key Features
 
