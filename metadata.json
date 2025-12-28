@@ -1,0 +1,8 @@
+{
+  "name": "Gemini Speak Relay",
+  "description": "Professional real-time multilingual relay translator by Ajarn Spencer Littlewood. Features tone-preservation and turn-based communication.",
+  "author": "Ajarn Spencer Littlewood",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
